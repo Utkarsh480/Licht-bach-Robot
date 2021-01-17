@@ -33,11 +33,11 @@ i am a group management bot I can help you to manage your group
 
 You can find my list of available commands with /help
 
-Developer By-[Licht bach](https:/t.me/lichtbotsupportgroup)
+Developer By-[Developer]("https:/t.me/Subaru_Akehoshi")
 
 """
 
-BOT_IMG = "https://telegra.ph/file/dd2bd6aa93ee581aab3fb.jpg"
+BOT_IMG = "https://telegra.ph/file/b52688e47bc751dbb862b.jpg"
 
 
 HELP_STRINGS = """
