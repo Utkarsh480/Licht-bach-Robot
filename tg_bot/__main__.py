@@ -33,7 +33,7 @@ i am a group management bot I can help you to manage your group
 
 You can find my list of available commands with /help
 
-Developer By-{ Developer }("https:/t.me/Subaru_Akehoshi")
+Developer By-{Developer}("https:/t.me/Subaru_Akehoshi")
 
 """
 
