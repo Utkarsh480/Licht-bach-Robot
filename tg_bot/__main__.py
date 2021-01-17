@@ -33,11 +33,11 @@ i am a group management bot I can help you to manage your group
 
 You can find my list of available commands with /help
 
-Developer By-[Licht bach](https:/t.me/lichtbotsupportgroup)
+Developer By-[developer]("https://t.me/EnternalsFriends")
 
 """
 
-BOT_IMG = "https://telegra.ph/file/dd2bd6aa93ee581aab3fb.jpg"
+BOT_IMG = "https://telegra.ph/file/b52688e47bc751dbb862b.jpg"
 
 
 HELP_STRINGS = """
@@ -148,7 +148,7 @@ def start(bot: Bot, update: Update, args: List[str]):
             update.effective_message.reply_photo(
                 BOT_IMG,
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
-                parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text=" Add Licht bach to your group ",
+                parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text=" Add Subaru Akehoshi to your group ",
                                                                        url="t.me/{}?startgroup=true".format(bot.username))]]))
 
 
