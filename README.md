@@ -1,7 +1,7 @@
 # Licht bach Robot
 
 
-Credits - [DEVLOPER](https://telegram.me/Net_SHELL)
+Credits - [DEVELOPER](https://telegram.me/Subaru_Akehoshi_botsupport)
 
 
 ![Yui](https://telegra.ph/file/dd2bd6aa93ee581aab3fb.jpg)
